@@ -1,2 +1,2 @@
 # Dining Philosophers
-A modified concurrent implementation of the dining philosophers problem.
+A concurrent implementation of the dining philosophers problem.
