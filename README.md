@@ -1,2 +1,2 @@
 # Dining Philosophers
-A concurrent implementation of the dining philosophers problem.
+An object-oriented concurrent implementation of the dining philosophers problem.
